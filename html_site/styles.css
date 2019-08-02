@@ -1,0 +1,15 @@
+p {
+ color: blue;
+ font-size: 22pt;
+ font-family: calibri;
+}
+#section1 p {
+ color: darkred;
+ font-size: 22pt;
+ font-family: calibri;
+}
+#section2 p {
+ color: darkgreen;
+ font-size: 22pt;
+ font-family: calibri;
+}
